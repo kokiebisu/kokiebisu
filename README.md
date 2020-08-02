@@ -2,8 +2,8 @@
 
 ### I'm a Developer, Teacher and a Founder!
 - 🐻　I am current looking for a fullstack job!
-- 🐼　Learning DevOps & CI/CD integrations through [slack][] 
-- 🐱　Learning Design Systems through [gobnb][]
+- 🐼　Learning DevOps & CI/CD integrations through [slack][slack] 
+- 🐱　Learning Design Systems through [gobnb][gobnb]
 - 🐶　Learning many other things...
 
 ### Connect with me at:
@@ -38,4 +38,5 @@
 [website]: https://www.kokiebisu.com
 [school]: https://www.biblio-tech.jp
 [linkedin]: https://www.linkedin.com/in/kokiebisu/
-
+[slack]: https://github.com/kokiebisu/slack
+[gobnb]: https://github.com/kokiebisu/gobnb
