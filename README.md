@@ -2,8 +2,8 @@
 
 ### I'm a Developer, Teacher and a Founder!
 - 🐻　I am current looking for a fullstack job!
-- 🐼　Learning DevOps & CI/CD integrations through [slack][slack] 
-- 🐱　Learning Design Systems through [gobnb][gobnb]
+- 🐼　Currently learning DevOps & CI/CD integrations through this project: [slack][slack] 
+- 🐱　Currently learning Design Systems through this project: [gobnb][gobnb]
 - 🐶　Learning many other things...
 
 ### Connect with me at:
