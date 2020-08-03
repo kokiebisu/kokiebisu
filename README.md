@@ -35,6 +35,9 @@
 <img align="left" alt="Golang" width="26px" src="https://user-images.githubusercontent.com/43525282/89113292-c0188e00-d423-11ea-97ea-b1bcf01999dd.png" />
 <img align="left" alt="Docker" width="26px" src="https://user-images.githubusercontent.com/43525282/89113196-c823fe00-d422-11ea-8dbe-fe493a78a0f0.png" />
 <img align="left" alt="Travis" width="26px" src="https://user-images.githubusercontent.com/43525282/89113256-7039c700-d423-11ea-9515-e392301677a5.png" />
+<img align="left" alt="Storybook" width="26px" src="https://user-images.githubusercontent.com/43525282/89219908-83fd3e80-d585-11ea-88a1-ebadbb221b39.png" />
+<img align="left" alt="Styled Components" width="26px" src="https://user-images.githubusercontent.com/43525282/89219863-6fb94180-d585-11ea-8c1a-948a766d1940.png" />
+
 
 <br />
 <br />
