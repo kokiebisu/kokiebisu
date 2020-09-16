@@ -1,6 +1,6 @@
 ## Hi there, I'm Ken 👋
 
-### I'm a currently looking for a Fullstack position!
+### I am currently looking for a Fullstack position!
 - 🐼　Currently learning DevOps & CI/CD integrations through this project: [slack][slack] 
 - 🐱　Currently learning Design Systems through this project: [gobnb][gobnb]
 - 🐶　Learning many other things...
