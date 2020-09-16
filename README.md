@@ -1,7 +1,6 @@
 ## Hi there, I'm Ken 👋
 
-### I'm a Developer, Teacher and a Founder!
-- 🐻　I am current looking for a fullstack job!
+### I'm a currently looking for a Fullstack position!
 - 🐼　Currently learning DevOps & CI/CD integrations through this project: [slack][slack] 
 - 🐱　Currently learning Design Systems through this project: [gobnb][gobnb]
 - 🐶　Learning many other things...
@@ -23,6 +22,9 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Typescript" width="26px" src="https://user-images.githubusercontent.com/43525282/89113279-a9723700-d423-11ea-8b2b-f963a6b64ca4.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Angular" width="26px"
+src="https://user-images.githubusercontent.com/43525282/93307021-68f13180-f7b5-11ea-8086-d45e50506e73.png" />
+<img align="left" alt="Vue" width="26px" src="https://user-images.githubusercontent.com/43525282/93307267-a655bf00-f7b5-11ea-9a79-4ca20feda1c3.png" />
 <img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
