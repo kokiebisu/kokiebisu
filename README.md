@@ -2,7 +2,7 @@
 
 ### I am currently looking for a Frontend Developer position!
 - 🐼　Currently learning GraphQl architecture through this project: [slack][slack] 
-- 🐱　Currently learning RestAPI architecture through this project: [gobnb][gobnb]
+- 🐱　Currently learning RestAPI architecture through this project: [airbnb][airbnb]
 - 🐶　Learning many other things...
 
 ### Connect with me at:
