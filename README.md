@@ -1,8 +1,8 @@
 ## Hi there, I'm Ken 👋
 
 ### I am currently looking for a Frontend Developer position!
-- 🐼　Currently learning DevOps & CI/CD integrations through this project: [slack][slack] 
-- 🐱　Currently learning Design Systems through this project: [gobnb][gobnb]
+- 🐼　Currently learning GraphQl architecture through this project: [slack][slack] 
+- 🐱　Currently learning RestAPI architecture through this project: [gobnb][gobnb]
 - 🐶　Learning many other things...
 
 ### Connect with me at:
@@ -49,4 +49,4 @@ src="https://user-images.githubusercontent.com/43525282/93307021-68f13180-f7b5-1
 [school]: https://www.biblio-tech.jp
 [linkedin]: https://www.linkedin.com/in/kokiebisu/
 [slack]: https://github.com/kokiebisu/slack
-[gobnb]: https://github.com/kokiebisu/gobnb
+[airbnb]: https://github.com/kokiebisu/airbnb
