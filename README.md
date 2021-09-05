@@ -1,10 +1,5 @@
 ## Hi there, I'm Ken 👋
 
-### I am currently looking for a FullStack position!
- 🐼　Currently learning GraphQl architecture through this project: [slack][slack]  </br>
- 🐱　Currently learning RestAPI architecture through this project: [airbnb][airbnb] </br>
- 🐶　Learning many other things...
-
 ### Connect with me at:
 
 [<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
